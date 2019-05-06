@@ -62,3 +62,8 @@
 0061. Rotate List (Medium)  
 0062. Unique Paths (Medium)  
 0063. Unique Paths II (Medium)  
+0064. Minimum Path Sum (Medium)  
+0065. Valid Number (Hard)  
+0066. Plus One (Easy)  
+0067. Add Binary (Easy)  
+
