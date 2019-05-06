@@ -66,3 +66,6 @@
 0065. Valid Number (Hard)  
 0066. Plus One (Easy)  
 0067. Add Binary (Easy)  
+0068. Text Justification (Hard)  
+0069. Sqrt(x) (Easy	)  
+0070. Climbing Stairs (Easy)  
