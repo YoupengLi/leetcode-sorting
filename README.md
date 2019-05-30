@@ -69,3 +69,8 @@
 0068. Text Justification (Hard)  
 0069. Sqrt(x) (Easy)  
 0070. Climbing Stairs (Easy)  
+0071. Simplify Path (Medium)  
+0072. Edit Distance (Hard)  
+0073. Set Matrix Zeroes (Medium)  
+0074. Search a 2D Matrix (Medium)  
+0075. Sort Colors (Medium)  
