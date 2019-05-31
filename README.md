@@ -74,3 +74,8 @@
 0073. Set Matrix Zeroes (Medium)  
 0074. Search a 2D Matrix (Medium)  
 0075. Sort Colors (Medium)  
+0076. Minimum Window Substring (Hard)  
+0077. Combinations (Medium)  
+0078. Subsets (Medium)  
+0079. Word Search (Medium)   
+0080. Remove Duplicates from Sorted Array II (Medium)  
