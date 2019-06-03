@@ -21,7 +21,7 @@ Input:
 ]
 Output: 6
 '''
-import numpy as np
+
 class Solution:
     def maximalRectangle(self, matrix: 'List[List[str]]') -> 'int':
         if not matrix or not matrix[0]:
