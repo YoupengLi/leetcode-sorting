@@ -86,3 +86,7 @@
 0085. Maximal Rectangle (Hard)  
 0086. Partition List (Medium)  
 0087. Scramble String (Hard)  
+0088 Merge Sorted Array (Easy)  
+0089 Gray Code (Medium)  
+0090 Subsets II (Medium)  
+0091 Decode Ways (Medium)  
