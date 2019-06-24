@@ -94,3 +94,8 @@
 0093. Restore IP Addresses (Medium)  
 0094. Binary Tree Inorder Traversal (Medium)  
 0095. Unique Binary Search Trees II (Medium)  
+0096. Unique Binary Search Trees (Medium)  
+0097. Interleaving String (Hard)  
+0098. Validate Binary Search Tree (Medium)  
+0099. Recover Binary Search Tree (Hard)  
+0100. Same Tree (Easy)  
