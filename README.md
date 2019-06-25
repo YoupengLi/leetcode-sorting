@@ -99,3 +99,7 @@
 0098. Validate Binary Search Tree (Medium)  
 0099. Recover Binary Search Tree (Hard)  
 0100. Same Tree (Easy)  
+0101. Symmetric Tree (Easy)  
+0102. Binary Tree Level Order Traversal (Medium)  
+0103. Binary Tree Zigzag Level Order Traversal (Medium)  
+0104. Maximum Depth of Binary Tree (Easy)  
