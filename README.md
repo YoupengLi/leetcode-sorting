@@ -109,3 +109,6 @@
 0108. Convert Sorted Array to Binary Search Tree (Easy)  
 0109. Convert Sorted List to Binary Search Tree (Medium)  
 0110. Balanced Binary Tree (Easy)  
+0111. Minimum Depth of Binary Tree (Easy)  
+0112. Path Sum (Easy)  
+0113. Path Sum II (Medium)  
