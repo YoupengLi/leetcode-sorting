@@ -1,5 +1,5 @@
 # leetcode-sorting
-0001. [Two Sum (Easy)](https://leetcode.com/problems/two-sum/)
+0001. [Two Sum](https://leetcode.com/problems/two-sum/) (Easy)  
 0002. Add Two Numbers (Medium)  
 0003. Longest Substring Without Repeating Characters (Medium)  
 0004. Median of Two Sorted Arrays (Hard)  
