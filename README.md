@@ -1,7 +1,7 @@
 # leetcode-sorting
 0001. [Two Sum](https://leetcode.com/problems/two-sum/) (Easy)  
-0002. Add Two Numbers (Medium)  
-0003. Longest Substring Without Repeating Characters (Medium)  
+0002. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) (Medium)  
+0003. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (Medium)  
 0004. Median of Two Sorted Arrays (Hard)  
 0005. Longest Palindromic Substring (Medium)  
 0006. ZigZag Conversion (Medium)  
