@@ -112,3 +112,5 @@
 0111. [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) (Easy)  
 0112. [Path Sum](https://leetcode.com/problems/path-sum) (Easy)  
 0113. [Path Sum II](https://leetcode.com/problems/path-sum-ii) (Medium)  
+0114. [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) (Medium)  
+0115. [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences) (Hard) 
