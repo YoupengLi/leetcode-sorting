@@ -112,3 +112,5 @@
 0111. Minimum Depth of Binary Tree (Easy)  
 0112. Path Sum (Easy)  
 0113. Path Sum II (Medium)  
+0114. Flatten Binary Tree to Linked List (Medium)  
+0115. Distinct Subsequences (Hard)  
