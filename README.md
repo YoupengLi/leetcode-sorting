@@ -114,3 +114,6 @@
 0113. [Path Sum II](https://leetcode.com/problems/path-sum-ii) (Medium)  
 0114. [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) (Medium)  
 0115. [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences) (Hard) 
+0116. [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) (Medium)  
+0117. [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii) (Medium)  
+0118. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) (Easy)  
