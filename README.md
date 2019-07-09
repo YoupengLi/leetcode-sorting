@@ -117,3 +117,8 @@
 0116. [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) (Medium)  
 0117. [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii) (Medium)  
 0118. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) (Easy)  
+0119. [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) (Easy)  
+0120. [Triangle](https://leetcode.com/problems/triangle) (Medium)  
+0121. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) (Easy)  
+0122. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) (Easy)  
+0123. [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) (Hard)  
