@@ -64,7 +64,7 @@ class Solution:
 
 if __name__  == "__main__":
     a = Solution()
-    numRows = 1
+    numRows = 5
     print(a.generate(numRows))
     print(a.generate_1(numRows))
     print(a.generate_2(numRows))
