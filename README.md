@@ -128,5 +128,3 @@
 0127. [Word Ladder](https://leetcode.com/problems/word-ladder) (Medium)  
 0128. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) (Hard)  
 0129. [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) (Medium)  
-0167.[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) (Easy)  
-0168.[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) (Easy)  
