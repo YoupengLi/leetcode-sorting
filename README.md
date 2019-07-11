@@ -128,3 +128,5 @@
 0127. [Word Ladder](https://leetcode.com/problems/word-ladder) (Medium)  
 0128. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) (Hard)  
 0129. [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) (Medium)  
+0130. [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) (Medium)  
+0131. [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning) (Medium)  
