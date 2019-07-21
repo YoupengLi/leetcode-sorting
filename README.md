@@ -134,3 +134,5 @@
 0133. [Clone Graph](https://leetcode.com/problems/clone-graph) (Medium)  
 0134. [Gas Station](https://leetcode.com/problems/gas-station) (Medium)  
 0135. [Candy](https://leetcode.com/problems/candy) (Hard)  
+0136. [Single Number](https://leetcode.com/problems/single-number) (Easy)  
+0137. [Single Number II](https://leetcode.com/problems/single-number-ii) (Medium)  
