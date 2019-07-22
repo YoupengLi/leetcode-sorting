@@ -21,6 +21,8 @@ Note:
 n does not exceed 1690.
 '''
 
+from heapq import heappop, heappush
+
 # DP, O(1) time, O(1) space
 class Ugly:
     def __init__(self):
@@ -62,11 +64,30 @@ class Solution:
     def nthUglyNumber_1(self, n: 'int') -> 'int':
         return self.u.nums[n - 1]
 
+    seen = {1}
+    nums = []
+    heap = []
+    heappush(heap, 1)
+
+    for _ in range(1690):
+        curr_ugly = heappop(heap)
+        nums.append(curr_ugly)
+        for i in [2, 3, 5]:
+            new_ugly = curr_ugly * i
+            if new_ugly not in seen:
+                seen.add(new_ugly)
+                heappush(heap, new_ugly)
+
+    def nthUglyNumber_2(self, n: 'int') -> 'int':
+        return self.nums[n - 1]
+
 if __name__ == "__main__":
     a = Solution()
     n = 10
     print(a.nthUglyNumber(n))
     print(a.nthUglyNumber_1(n))
+    print(a.nthUglyNumber_2(n))
     n = 1690
     print(a.nthUglyNumber(n))
     print(a.nthUglyNumber_1(n))
+    print(a.nthUglyNumber_2(n))
