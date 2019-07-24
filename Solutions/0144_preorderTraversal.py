@@ -67,6 +67,27 @@ class Solution(object):
                 stack.append(node.left)
         return res
 
+    # iteratively
+    def preorderTraversal_2(self, root):
+        """
+        :type root: TreeNode
+        :rtype: List[int]
+        """
+        res = []
+        if not root:
+            return res
+        stack = []
+        stack.append(root)
+
+        while stack:
+            node = stack.pop()
+            res.append(node.val)
+            if node.right:
+                stack.append(node.right)
+            if node.left:
+                stack.append(node.left)
+        return res
+
 if __name__ == "__main__":
     '''
        1
@@ -84,6 +105,7 @@ if __name__ == "__main__":
     root = t1
     print(a.preorderTraversal(root))
     print(a.preorderTraversal_1(root))
+    print(a.preorderTraversal_2(root))
 
     '''
            1
@@ -103,3 +125,4 @@ if __name__ == "__main__":
     root = t1
     print(a.preorderTraversal(root))
     print(a.preorderTraversal_1(root))
+    print(a.preorderTraversal_2(root))
