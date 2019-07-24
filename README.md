@@ -139,4 +139,5 @@
 0138. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) (Medium)  
 0139. [Word Break](https://leetcode.com/problems/word-break) (Medium)  
 0140. [Word Break II](https://leetcode.com/problems/word-break-ii) (Hard)  
-
+0141. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) (Easy)  
+0142. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) (Medium)  
