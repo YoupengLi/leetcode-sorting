@@ -141,3 +141,6 @@
 0140. [Word Break II](https://leetcode.com/problems/word-break-ii) (Hard)  
 0141. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) (Easy)  
 0142. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) (Medium)  
+0143. [Reorder List](https://leetcode.com/problems/reorder-list) (Medium)  
+0144. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) (Medium)  
+0145. [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) (Hard)  
