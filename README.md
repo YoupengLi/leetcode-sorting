@@ -144,3 +144,4 @@
 0143. [Reorder List](https://leetcode.com/problems/reorder-list) (Medium)  
 0144. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) (Medium)  
 0145. [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) (Hard)  
+0146. [LRU Cache](https://leetcode.com/problems/lru-cache) (Medium)  
