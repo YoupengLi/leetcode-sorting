@@ -145,3 +145,6 @@
 0144. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) (Medium)  
 0145. [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) (Hard)  
 0146. [LRU Cache](https://leetcode.com/problems/lru-cache) (Medium)  
+0147. [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list) (Medium)  
+0148. [Sort List](https://leetcode.com/problems/sort-list) (Medium)  
+0149. [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line) (Hard)  
