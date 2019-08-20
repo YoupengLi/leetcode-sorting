@@ -159,3 +159,14 @@
 0158. [Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times) (Hard) [locked]  
 0159. [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters) (Hard) [locked]  
 0160. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) (Easy)  
+0161. [One Edit Distance](https://leetcode.com/problems/one-edit-distance) (Medium) [locked]  
+0162. [Find Peak Element](https://leetcode.com/problems/find-peak-element) (Medium)  
+0163. [Missing Ranges](https://leetcode.com/problems/missing-ranges) (Medium) [locked]  
+0164. [Maximum Gap](https://leetcode.com/problems/maximum-gap) (Hard)  
+0165. [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers) (Medium)  
+0166. [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) (Medium)  
+0167. [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) (Easy)  
+0168. [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) (Easy)  
+0169. [Majority Element](https://leetcode.com/problems/majority-element) (Easy)  
+0170. [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design) (Easy) [locked]  
+0171. [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) (Easy)  
