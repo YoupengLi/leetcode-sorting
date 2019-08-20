@@ -170,3 +170,5 @@
 0169. [Majority Element](https://leetcode.com/problems/majority-element) (Easy)  
 0170. [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design) (Easy) [locked]  
 0171. [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) (Easy)  
+0172. [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) (Easy)  
+0173. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) (Medium)  
