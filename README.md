@@ -186,3 +186,6 @@
 0185. [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries) (Hard)  
 0186. [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii) (Medium) [locked]  
 0187. [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) (Medium)  
+0188. [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) (Hard)  
+0189. [Rotate Array](https://leetcode.com/problems/rotate-array) (Easy)  
+0190. [Reverse Bits](https://leetcode.com/problems/reverse-bits) (Easy)  
