@@ -197,3 +197,7 @@
 0196. [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) (Easy)  
 0197. [Rising Temperature](https://leetcode.com/problems/rising-temperature) (Easy)  
 0198. [House Robber](https://leetcode.com/problems/house-robber) (Easy)  
+0199. [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) (Medium)  
+0200. [Number of Islands](https://leetcode.com/problems/number-of-islands) (Medium)  
+0201. [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range) (Medium)  
+0202. [Happy Number](https://leetcode.com/problems/happy-number) (Easy)  
