@@ -205,3 +205,6 @@
 0204. [Count Primes](https://leetcode.com/problems/count-primes) (Easy)  
 0205. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) (Easy)  
 0206. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) (Easy)  
+0207. [Course Schedule](https://leetcode.com/problems/course-schedule) (Medium)  
+0208. [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) (Medium)  
+0209. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) (Medium)  
