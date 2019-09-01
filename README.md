@@ -201,3 +201,7 @@
 0200. [Number of Islands](https://leetcode.com/problems/number-of-islands) (Medium)  
 0201. [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range) (Medium)  
 0202. [Happy Number](https://leetcode.com/problems/happy-number) (Easy)  
+0203. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) (Easy)  
+0204. [Count Primes](https://leetcode.com/problems/count-primes) (Easy)  
+0205. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) (Easy)  
+0206. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) (Easy)  
