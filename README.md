@@ -154,7 +154,7 @@
 0153. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) (Medium)  
 0154. [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) (Hard)  
 0155. [Min Stack](https://leetcode.com/problems/min-stack) (Easy)  
-0156. [Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down) (Medium) [locked]  
+0156. [Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down) (Medium) [locked] ♥  
 0157. [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4) (Easy) [locked]  
 0158. [Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times) (Hard) [locked]  
 0159. [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters) (Hard) [locked]  
