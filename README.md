@@ -113,7 +113,7 @@
 0112. [Path Sum](https://leetcode.com/problems/path-sum) (Easy)  
 0113. [Path Sum II](https://leetcode.com/problems/path-sum-ii) (Medium)  
 0114. [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) (Medium)  
-0115. [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences) (Hard) 
+0115. [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences) (Hard)  
 0116. [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) (Medium)  
 0117. [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii) (Medium)  
 0118. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) (Easy)  
@@ -154,21 +154,21 @@
 0153. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) (Medium)  
 0154. [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) (Hard)  
 0155. [Min Stack](https://leetcode.com/problems/min-stack) (Easy)  
-0156. [Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down) (Medium) [locked] ♥  
-0157. [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4) (Easy) [locked]  
-0158. [Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times) (Hard) [locked]  
-0159. [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters) (Hard) [locked]  
+0156. [Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down) (Medium) ♥  
+0157. [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4) (Easy) ♥  
+0158. [Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times) (Hard) ♥  
+0159. [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters) (Hard) ♥  
 0160. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) (Easy)  
-0161. [One Edit Distance](https://leetcode.com/problems/one-edit-distance) (Medium) [locked]  
+0161. [One Edit Distance](https://leetcode.com/problems/one-edit-distance) (Medium) ♥  
 0162. [Find Peak Element](https://leetcode.com/problems/find-peak-element) (Medium)  
-0163. [Missing Ranges](https://leetcode.com/problems/missing-ranges) (Medium) [locked]  
+0163. [Missing Ranges](https://leetcode.com/problems/missing-ranges) (Medium) ♥  
 0164. [Maximum Gap](https://leetcode.com/problems/maximum-gap) (Hard)  
 0165. [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers) (Medium)  
 0166. [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) (Medium)  
 0167. [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) (Easy)  
 0168. [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) (Easy)  
 0169. [Majority Element](https://leetcode.com/problems/majority-element) (Easy)  
-0170. [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design) (Easy) [locked]  
+0170. [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design) (Easy) ♥  
 0171. [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) (Easy)  
 0172. [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) (Easy)  
 0173. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) (Medium)  
@@ -184,7 +184,7 @@
 0183. [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) (Easy)  
 0184. [Department Highest Salary](https://leetcode.com/problems/department-highest-salary) (Medium)  
 0185. [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries) (Hard)  
-0186. [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii) (Medium) [locked]  
+0186. [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii) (Medium) ♥  
 0187. [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) (Medium)  
 0188. [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) (Hard)  
 0189. [Rotate Array](https://leetcode.com/problems/rotate-array) (Easy)  
@@ -210,3 +210,8 @@
 0209. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) (Medium)  
 0210. [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) (Medium)  
 0211. [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design) (Medium)  
+0212. [Word Search II](https://leetcode.com/problems/word-search-ii) (Hard)  
+0213. [House Robber II](https://leetcode.com/problems/house-robber-ii) (Medium)  
+0214. [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome) (Hard)  
+0215. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) (Medium)  
+
